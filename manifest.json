@@ -1,7 +1,7 @@
 {
-  "name": "Photospere Filter",
+  "name": "Photosphere Filter",
   "description": "Hides Photos in Google Maps profile that's not a 360° View",
-  "version": "1.0",
+  "version": "1.1",
   "manifest_version": 3,
 
   "icons": {
