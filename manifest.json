@@ -13,7 +13,7 @@
 
   "permissions": ["scripting"],
   "host_permissions": [
-    "https://www.google.com/maps/contrib/*"
+    "<all_urls>"
   ],
   "action": {
     "default_title": "Pick random location"
